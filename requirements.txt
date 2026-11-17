@@ -1,0 +1,5 @@
+# Versions exactes à ajouter à la fin de l'épreuve
+pandas
+numpy
+matplotlib
+scikit-learn
