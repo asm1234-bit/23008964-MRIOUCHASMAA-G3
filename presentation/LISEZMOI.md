@@ -1,1 +1,0 @@
-Présentation de six diapositives
